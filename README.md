@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stevinel](https://github.com/Stevinel)
 
-- 📫 How to reach me **stevinel@xaker.ru**
+- 📫 How to reach me **stevinel@xaker.ru** or **tg @MMMhlp**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
