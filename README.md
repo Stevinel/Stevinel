@@ -5,8 +5,6 @@
 
 <p align="center">- 🔭 I’m currently working on some cool projects :)</p>
 
-<p align="center">- 🌱 I’m currently learning asyncio, queues, algorithms</p>
-
 <p align="center">- 👨‍💻 All of my projects are available at the repositories tab</p>
 
 <p align="center">- 📫 How to reach me stevinel@xaker.ru or tg @MMMhlp</p>
